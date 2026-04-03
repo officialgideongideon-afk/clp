@@ -1,6 +1,0 @@
-# Cloudflare Pages redirects
-# Redirect root to index.html
-/ /index.html 200
-
-# Handle trailing slashes
-/* /index.html 200
